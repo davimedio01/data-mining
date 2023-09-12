@@ -1,0 +1,11 @@
+ID,Sintoma,Altura-1,Altura-2,Peso,Temperatura,Idade,Sexo
+1,Febre,Baixa,0,45.3,36.5,55,0
+2,Tosse,Media,1,70.7,36.5,45,1
+3,Tosse,Alta,2,98.2,37.9,37,1
+4,Tosse,Alta,2,99.1,36.5,32,1
+5,Febre,Alta,2,92.5,36.5,35,1
+6,Corisa,Alta,2,91.7,36.5,62,0
+7,Corisa,Media,1,72.4,38.9,65,0
+8,Corisa,Baixa,0,50.2,36.5,37,0
+9,Corisa,Baixa,0,57.3,38.8,33,0
+10,Corisa,Baixa,0,59.9,36.5,31,0
